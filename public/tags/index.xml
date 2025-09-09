@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Blowfish</title>
+    <title>Tags on Home</title>
     <link>//localhost:1313/tags/</link>
-    <description>Recent content in Tags on Blowfish</description>
+    <description>Recent content in Tags on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 </copyright>
+    <managingEditor>kelen940511@gmail.com (KelenHappy)</managingEditor>
+    <webMaster>kelen940511@gmail.com (KelenHappy)</webMaster>
+    <copyright>© 2025 KelenHappy</copyright>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
