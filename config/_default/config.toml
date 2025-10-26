@@ -3,3 +3,6 @@
 extended = true
 min = "0.141.0"
 max = "0.148.2"
+
+[params]
+copyright = "Copy, right? 🤔 { year } Kelen"

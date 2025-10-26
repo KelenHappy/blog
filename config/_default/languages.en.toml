@@ -8,22 +8,22 @@ title = "Home"
   displayName = "EN"
   isoCode = "en"
   rtl = false
-  dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+  #dateFormat = "2 January 2006"
+  logo = "img/kelen-ico.png"
+  secondaryLogo = "img/kelen.png"
+  description = "免費仔天地"
+  copyright = "Copy, right? 🤔 { year } Kelen"
 
  [params.author]
    name = "KelenHappy"
    email = "kelen940511@gmail.com"
-#   image = "img/blowfish_logo.png"
+   image = "img/kelen-ico.png"
 #   imageQuality = 96
 #   headline = "I'm only human"
 #   bio = "A little bit about you"
-#   links = [
+   links = [
 #     { email = "mailto:hello@your_domain.com" },
-#     { link = "https://link-to-some-website.com/" },
+     { link = "https://kelenhappy.github.io/blog/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },
@@ -35,7 +35,7 @@ title = "Home"
 #     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
-#     { github = "https://github.com/username" },
+     { github = "https://github.com/KelenHappy" }
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
@@ -73,4 +73,4 @@ title = "Home"
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
-#   ]
+   ]
