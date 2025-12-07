@@ -10,7 +10,7 @@ descrition: "免費Vibe Code Editor"
 ，導致作業與考試越來越難，為了解決不被淘汰，也許使用 Vibe Code 才可以用魔法打敗魔法。
 
 # [Zed](https://zed.dev/)
-可以連結自己的API，用起來非常方便，不論用什麼AI，只要有API，都可以使用。
+可以連結自己的API，用起來非常方便，不論用什麼AI，只要有API，都可以使用，還可以連結Copilot。
 
 **優點：**
 1. 可以連結自己的API，甚至可以部屬 Ollama。
@@ -35,3 +35,10 @@ descrition: "免費Vibe Code Editor"
 **缺點：**
 1. 只能登入GitHub 和 Google。
 
+# [Cursor](https://cursor.com/)
+
+**優點：**
+1. 界面優良
+
+**缺點：**
+1. 免費方案不明確，有額度限制。
