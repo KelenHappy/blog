@@ -19,3 +19,19 @@ descrition: "免費Vibe Code Editor"
 1. 沒有免費的AI Token，可以登入GitHub，使用自己的Token。
 
 # [Windsurf](https://windsurf.com/)
+
+**優點：**
+1. 可以連結自己的API，25個Credit。
+
+**缺點：**
+1. 每個月的Token數量有限制而且很少，需要購買。
+
+# [Kiro](https://kiro.dev/)
+可以連結自己的API，用起來非常方便，不論用什麼AI，只要有API，都可以使用。
+
+**優點：**
+1. 免費Token多。
+
+**缺點：**
+1. 只能登入GitHub 和 Google。
+
