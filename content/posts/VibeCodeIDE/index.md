@@ -44,3 +44,7 @@ descrition: "免費Vibe Code Editor"
 1. 免費方案不明確，有額度限制。
 
 # [Trae](https://www.trae.ai/)
+
+# [Qoder](https://qoder.com/)
+
+# [CodeBuddy](https://www.codebuddy.com/)
