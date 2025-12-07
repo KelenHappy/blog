@@ -42,3 +42,5 @@ descrition: "免費Vibe Code Editor"
 
 **缺點：**
 1. 免費方案不明確，有額度限制。
+
+# [Trae](https://www.trae.ai/)
