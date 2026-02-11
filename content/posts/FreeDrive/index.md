@@ -8,7 +8,8 @@ descrition: "Google帳號可以升起到的免費網路空間"
 最近因為專題，有許多大檔案需要傳輸，還要進行共編，雖然Google Drive有15GB的免費空間，但是如果只是用於共編，就有些浪費。畢竟工作和生活檔案想要分開，這邊整理幾個免費網路空間。
 
 # [Goole Drive](https://www.google.com/drive/)
-<img src="GoogleDrive.webp" alt="Google Drive Logo" style="max-width: 180px; height: auto; display: block; margin: 0 auto;" loading="lazy">
+<img src="GoogleDrive.webp" alt="Google Drive Logo" style="max-width: auto; height: 180px; display: block; margin: 0 auto;" loading="lazy">
+    
 為每個Google帳號提供`15GB的免費儲存空間`，這些空間由Gmail、Google相簿和Google雲端硬碟共用。
 
 **分享與下載限制：**
@@ -22,9 +23,10 @@ descrition: "Google帳號可以升起到的免費網路空間"
 *   **隱私疑慮：** Google可能會掃描儲存的內容用於廣告目的（儘管官方聲明已停止掃描Gmail用於廣告）。
 *   **共用空間：** 15GB空間由多個服務共用。
 
-# [One Drive](https://www.microsoft.com/zh-tw/microsoft-365/onedrive/online-cloud-storage)
+# [OneDrive](https://www.microsoft.com/zh-tw/microsoft-365/onedrive/online-cloud-storage)
+<img src="OneDrive.webp" alt="OneDrive Logo" style="max-width: auto; height: 180px; display: block; margin: 0 auto;" loading="lazy">
+    
 針對每個Microsoft帳號提供`5GB的免費儲存空間`，用於儲存檔案、文件和照片。
-
 **分享與下載限制：**
 *   可以彈性地設定檔案分享權限，如僅限特定人士存取、知道連結者皆可檢視或編輯。
 
@@ -35,31 +37,35 @@ descrition: "Google帳號可以升起到的免費網路空間"
 *   **功能與系統綁定：** 在非Windows作業系統上不好用。
 
 # [Mega](https://mega.io/)
+<img src="Mega.webp" alt="Mega Logo" style="max-width: 180px; height: auto; display: block; margin: 0 auto;" loading="lazy">
+    
 為每個帳號提供`20GB的免費儲存空間`。
 
 **分享與下載限制：**
 *   分享連結可以設定密碼保護或失效日期。
-*   免費帳戶有 **頻寬限制**，例如`每6小時可下載約5GB`的數據。
+*   免費帳戶有 **頻寬限制**，例如`10 GB上傳下載頻寬限制/月，每半小時回補500MB流量 `的數據。
 
 **缺點：**
 *   **嚴格頻寬限制：** 免費帳戶的下載頻寬限制相對嚴格，頻繁下載大檔案會受到影響。
 *   **帳戶重置風險：** 長時間不登入，帳號可能會被視為不活躍，可能導致免費空間減少或數據丟失（通常有警告）。
 
 # [pCloud](https://www.pcloud.com/)
-為每個帳號提供`7GB的免費儲存空間`，用於儲存各種檔案、照片和影片。
-
+<img src="pCloud.webp" alt="pCloud Logo" style="max-width: auto; height: 180px; display: block; margin: 0 auto;" loading="lazy">
+    
+為每個帳號提供`3~10GB的免費儲存空間`，根據你完成任務給予相對應的空間，用於儲存各種檔案、照片和影片。
 **分享與下載限制：**
 *   可以建立公開或受保護的分享連結。
-*   免費帳戶有**流量限制**，例如`每月約50GB`的下載流量。
 
 **額外功能：**
-*   **遠端上傳：** 支援透過URL將檔案直接上傳到雲端。
+*   **終身空間：** 比較特殊的是方案都是買斷的。
 *   **媒體串流：** 內建播放器，可以直接串流播放影片或照片。
 
 **缺點：**
-*   **免費空間麻煩但好用：** 要做活動才能到7GB。
+*   **免費空間麻煩但好用：** 要做活動才能到10GB。
 
 # [Ente](https://ente.io/)
+<img src="Ente.webp" alt="Ente Logo" style="max-width: auto; height: 180px; display: block; margin: 0 auto;" loading="lazy">
+    
 為每個帳號提供`10GB的免費儲存空間`，用於儲存各種檔案、照片和影片。
 
 **分享與下載限制：**
@@ -68,8 +74,12 @@ descrition: "Google帳號可以升起到的免費網路空間"
 **額外功能：**
 *   **邀請好友：** 可以新增10GB空間。
 
+**缺點：**
+*   **尚未完成翻譯：** 沒有繁體中文。
 
 # [Box](https://www.box.com/zh-tw/home)
+<img src="Box.webp" alt="Box Logo" style="max-width: auto; height: 180px; display: block; margin: 0 auto;" loading="lazy">
+    
 為每個帳號提供`10GB的免費儲存空間`。
 
 **分享與下載限制：**
@@ -84,6 +94,8 @@ descrition: "Google帳號可以升起到的免費網路空間"
 *   **主要面向企業用戶：** 免費功能相對有限，許多進階協作和管理功能僅限付費企業用戶。
 
 # [Dropbox](https://www.dropbox.com/)
+<img src="Dropbox.webp" alt="Dropbox Logo" style="max-width: auto; height: 180px; display: block; margin: 0 auto;" loading="lazy">
+
 為每個帳號提供`2GB的免費儲存空間`，可以用於儲存和同步文件、照片和影片。
 
 **分享與下載限制：**
@@ -97,6 +109,8 @@ descrition: "Google帳號可以升起到的免費網路空間"
 *   **付費升級價格高：** 若需更多空間，付費方案的價格通常比競爭對手高。
 
 # [Sync](https://www.sync.com/)
+<img src="Sync.webp" alt="Sync Logo" style="max-width: auto; height: 180px; display: block; margin: 0 auto;" loading="lazy">
+
 為每個帳號提供`5GB的免費儲存空間`。
 
 **分享與下載限制：**
@@ -106,6 +120,8 @@ descrition: "Google帳號可以升起到的免費網路空間"
 *   **缺乏線上編輯功能：** 不提供文件、試算表或簡報的線上預覽或編輯工具，對於需要共編的用戶來說較不方便。
 
 # [Filen](https://filen.io/)
+<img src="Filen.webp" alt="Filen Logo" style="max-width: auto; height: 180px; display: block; margin: 0 auto;" loading="lazy">
+
 為每個帳號提供`10GB的免費儲存空間`。
 
 **分享與下載限制：**
@@ -118,7 +134,9 @@ descrition: "Google帳號可以升起到的免費網路空間"
 *   **服務較新：** 相對較新的服務，功能可能仍在完善中察。
 
 # [Proton Drive](https://proton.me/drive/)
-為每個帳號提供`1GB的免費儲存空間`。
+<img src="ProtonDrive.webp" alt="Proton Drive Logo" style="max-width: auto; height: 180px; display: block; margin: 0 auto;" loading="lazy">
+
+為每個帳號提供`2GB的免費儲存空間`。
 
 **分享與下載限制：**
 *   提供安全的分享連結，支援密碼保護。
@@ -128,10 +146,11 @@ descrition: "Google帳號可以升起到的免費網路空間"
 *   **Proton全家桶：** 與Proton Mail、Proton Calendar等服務無縫整合。
 
 **缺點：**
-*   **免費空間最少：** 僅`提供1GB的免費空間`，好吧這是我的問題。
-*   **分享速度受影響：** 由於端到端加密特性，檔案分享時可能需要額外處理，影響分享速度和便利性。
+*   **尚未完成翻譯：** 沒有繁體中文。
 
 # [TeraBox](https://www.terabox.com/)
+<img src="TeraBox.webp" alt="TeraBox Logo" style="max-width: auto; height: 180px; display: block; margin: 0 auto;" loading="lazy">
+    
 為每個帳號提供`1TB (1024GB) 的免費儲存空間`，是目前市面上提供最大免費空間的服務之一。
 
 **分享與下載限制：**
@@ -148,6 +167,8 @@ descrition: "Google帳號可以升起到的免費網路空間"
 *   **不活躍檔案刪除：** 長時間不活躍的帳戶或檔案可能被標記為不活躍，甚至可能被刪除。
 
 # [ASUS WebStorage](https://www.asuswebstorage.com/)
+<img src="ASUSWebStorage.webp" alt="ASUS WebStorage Logo" style="max-width: auto; height: 180px; display: block; margin: 0 auto;" loading="lazy">
+    
 為每個帳號提供`5GB的免費儲存空間`，特別為ASUS裝置用戶提供更好的整合體驗。
 
 **分享與下載限制：**
@@ -161,7 +182,9 @@ descrition: "Google帳號可以升起到的免費網路空間"
 **缺點：**
 *   **品牌綁定：** 功能和體驗在非ASUS裝置上可能不如在ASUS裝置上流暢。
 
-# [Icedrive](https://www.icedrive.net/)
+# [icedrive](https://www.icedrive.net/)
+<img src="icedrive.webp" alt="icedrive Logo" style="max-width: auto; height: 180px; display: block; margin: 0 auto;" loading="lazy">
+    
 為每個帳號提供`10GB的免費儲存空間`。
 
 **分享與下載限制：**
@@ -173,8 +196,11 @@ descrition: "Google帳號可以升起到的免費網路空間"
 
 **缺點：**
 *   **相對較新：** 相比主流服務，功能仍在發展中。
+*   **廣告：** 有廣告可能會很煩人。
 
 # [Blomp](https://blomp.com/)
+<img src="Blomp.webp" alt="Blomp Logo" style="max-width: auto; height: 180px; display: block; margin: 0 auto;" loading="lazy">
+    
 為每個帳號提供`40GB的免費儲存空間`。
 
 **分享與下載限制：**
@@ -186,6 +212,8 @@ descrition: "Google帳號可以升起到的免費網路空間"
 *   **隱私疑慮：** 對於新服務，資料隱私和安全性政策可能需要仔細評估。
 
 # [MediaFire](https://www.mediafire.com/)
+<img src="MediaFire.webp" alt="MediaFire Logo" style="max-width: auto; height: 180px; display: block; margin: 0 auto;" loading="lazy">
+    
 為每個帳號提供`10GB的免費儲存空間`，主要用於大檔案傳輸與分享。
 
 **分享與下載限制：**
@@ -204,6 +232,8 @@ descrition: "Google帳號可以升起到的免費網路空間"
 *   **隱私與安全性：** 不提供加密。
 
 # [Rakuten Drive](https://www.rakuten-drive.com/)
+<img src="RakutenDrive.webp" alt="Rakuten Drive Logo" style="max-width: auto; height: 180px; display: block; margin: 0 auto;" loading="lazy">
+    
 為每個帳號提供`10GB的免費儲存空間`，主要用於大檔案傳輸與分享。
 
 **分享與下載限制：**
@@ -218,6 +248,8 @@ descrition: "Google帳號可以升起到的免費網路空間"
 *   **儲存功能弱：** 更偏向於檔案傳輸工具，不適合作為長期備份空間。
 
 # [Koofr](https://app.koofr.net/)
+<img src="Koofr.webp" alt="Koofr Logo" style="max-width: auto; height: 180px; display: block; margin: 0 auto;" loading="lazy">
+
 為每個帳號提供`10GB的免費儲存空間`，並獨特地支援整合其他雲端服務，如`Google Drive、Dropbox和OneDrive`。
 
 **分享與下載限制：**
@@ -231,6 +263,8 @@ descrition: "Google帳號可以升起到的免費網路空間"
 *   **用戶社群較小：**
 
 # [Jottacloud](https://jottacloud.com/)
+<img src="Jottacloud.webp" alt="Jottacloud Logo" style="max-width: auto; height: 180px; display: block; margin: 0 auto;" loading="lazy">
+
 提供`5GB的免費儲存空間`。
 
 **分享與下載限制：**
