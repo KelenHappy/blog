@@ -8,6 +8,7 @@ descrition: "Google帳號可以升起到的免費網路空間"
 最近因為專題，有許多大檔案需要傳輸，還要進行共編，雖然Google Drive有15GB的免費空間，但是如果只是用於共編，就有些浪費。畢竟工作和生活檔案想要分開，這邊整理幾個免費網路空間。
 
 # [Goole Drive](https://www.google.com/drive/)
+<img src="GoogleDrive.webp" alt="Google Drive Logo" style="max-width: 180px; height: auto; display: block; margin: 0 auto;" loading="lazy">
 為每個Google帳號提供`15GB的免費儲存空間`，這些空間由Gmail、Google相簿和Google雲端硬碟共用。
 
 **分享與下載限制：**
