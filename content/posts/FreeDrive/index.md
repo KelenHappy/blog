@@ -169,11 +169,11 @@ descrition: "Google帳號可以升起到的免費網路空間"
 # [ASUS WebStorage](https://www.asuswebstorage.com/)
 <img src="ASUSWebStorage.webp" alt="ASUS WebStorage Logo" style="max-width: auto; height: 180px; display: block; margin: 0 auto;" loading="lazy">
     
-為每個帳號提供`5GB的免費儲存空間`，特別為ASUS裝置用戶提供更好的整合體驗。
+為每個帳號提供`3GB的免費儲存空間`，特別為ASUS裝置用戶提供更好的整合體驗。
 
 **分享與下載限制：**
 *   可設定檔案分享連結，並可選擇公開或私密存取。
-*   對於免費帳戶，`單一檔案上傳大小限制為2GB`。
+*   對於免費帳戶，`單一檔案上傳大小限制為250MB`。
 
 **額外功能：**
 *   **裝置整合：** 與ASUS筆記型電腦、手機等裝置深度整合，方便資料同步與備份。
@@ -274,3 +274,14 @@ descrition: "Google帳號可以升起到的免費網路空間"
 *   **主要功能需付費：** 其核心的「無限備份」功能僅限付費方案。
 *   **速度與介面：** 上傳下載速度可能不穩定，UI不如主流直觀。
 *   **伺服器地點：** 伺服器位於挪威，可能對亞洲等地區用戶的連接速度有影響。
+
+# [Internxt](https://internxt.com/)
+<img src="Internxt.webp" alt="Internxt Logo" style="max-width: auto; height: 180px; display: block; margin: 0 auto;" loading="lazy">
+
+提供 `1GB的免費儲存空間`
+
+**分享與下載限制：**
+*   可以隨意分享連結
+
+**缺點：**
+*   **免費空間：** 空間太小了
