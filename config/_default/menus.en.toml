@@ -15,6 +15,11 @@
   pageRef = "posts"
   weight = 10
 
+[[main]]
+  name = "聯絡我"
+  pageRef = "contact"
+  weight = 20
+
 #[[main]]
 #  name = "Parent"
 #  weight = 20
