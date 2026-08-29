@@ -24,6 +24,7 @@ disableTextInHeader = false
 # backgroundImageWidth = 1200
 
 # defaultBackgroundImage = "IMAGE.jpg" # used as default for background images
+# backgroundCanvas = true # v3: render defaultBackgroundImage as a fixed backdrop on every page
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 # defaultSocialImage = "/android-chrome-512x512.png" # used as default for social media sharing (Open Graph and Twitter)
 
@@ -37,7 +38,8 @@ giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [header]
-  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur, floating
+  # mobileMenuStyle = "dropdown" # v3: valid options: fullscreen, dropdown
 
 [footer]
   showMenu = true
@@ -47,7 +49,8 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showScrollToTop = true
 
 [homepage]
-  layout = "background" # valid options: page, profile, hero, card, background, custom
+  layout = "background" # valid options: page, profile, hero, card, background, landing, custom
+  # layoutSwitcher = true # v3: opt-in interactive preview of the built-in layouts
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
@@ -79,6 +82,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showHeadingAnchors = true
   showPagination = true
   invertPagination = false
+  # showReadingProgress = true # v3: reading progress bar at the top of articles
   showTableOfContents = true
   # relatedContentLimit = 3
   showTaxonomies = false # use showTaxonomies OR showCategoryOnly, not both
@@ -104,6 +108,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   cardView = false
   cardViewScreenWidth = false
   constrainItemsWidth = false
+  # featureImageHover = false # v3: zoom the feature image on card hover
 
 [sitemap]
   excludedKinds = ["taxonomy", "term"]
