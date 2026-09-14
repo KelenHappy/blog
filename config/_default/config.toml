@@ -1,8 +1,7 @@
 [module]
 [module.hugoVersion]
 extended = true
-min = "0.162.0"
+min = "0.162.1"
 
 [params]
 copyright = "Copy, right? 🤔 { year } Kelen"
-
