@@ -54,19 +54,25 @@ description: "公文規定要用楷書，大家用了三十年的標楷體卻是
 
 收字量是它最大的優勢。全字庫的目標是把 CNS11643 整套標準交換碼的字都做出來，連罕用字、異體字都在裡面，這是一般商業字型和社群字型都做不到的規模。整個資料集除了字型檔，還包含字碼對照表、部首筆畫、異體字對應這些資料。
 
+<img src="download.webp" alt="下載" style="max-width: auto; height: auto; display: block; margin: 0 auto;" loading="lazy">
+
 官方下載頁：<https://data.gov.tw/dataset/5961>
 
-<img src="download.webp" alt="下載" style="max-width: auto; height: 180px; display: block; margin: 0 auto;" loading="lazy">
 
 # 安裝
 
+Windows 和 macOS 沒什麼好講，下載解壓縮之後點兩下安裝就好。
+
 <img src="install.webp" alt="安裝" style="max-width: auto; height: 180px; display: block; margin: 0 auto;" loading="lazy">
 
-Windows 和 macOS 沒什麼好講，下載解壓縮之後點兩下安裝就好。
 
 <img src="installPreview.webp" alt="安裝預覽" style="max-width: auto; height: 180px; display: block; margin: 0 auto;" loading="lazy">
 
+這邊還沒研究Linux，之後會補上。
+
 <img src="onlyofficePreview.webp" alt="安裝預覽" style="max-width: auto; height: 180px; display: block; margin: 0 auto;" loading="lazy">
+
+Only Office就可以選到字型
 
 # 結語
 
