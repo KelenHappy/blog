@@ -61,10 +61,11 @@ description: "公文規定要用楷書，大家用了三十年的標楷體卻是
 
 # 安裝
 
-Windows 和 macOS 沒什麼好講，下載解壓縮之後點兩下安裝就好。
+Windows 和 macOS 沒什麼好講。
 
-<img src="install.webp" alt="安裝" style="max-width: auto; height: 180px; display: block; margin: 0 auto;" loading="lazy">
+<img src="install.webp" alt="安裝" style="max-width: auto; height: auto; display: block; margin: 0 auto;" loading="lazy">
 
+下載解壓縮之後點兩下安裝就好。
 
 <img src="installPreview.webp" alt="安裝預覽" style="max-width: auto; height: 180px; display: block; margin: 0 auto;" loading="lazy">
 
