@@ -28,13 +28,14 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
 
     env:
-      HUGO_VERSION: 0.164.0
+      HUGO_VERSION: 0.165.0
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
           submodules: recursive
+
       - name: Install Hugo CLI
         run: |
           wget -qO "${{ runner.temp }}/hugo.deb" \
@@ -42,7 +43,7 @@ jobs:
           sudo dpkg -i "${{ runner.temp }}/hugo.deb"
           hugo version
 
-     - name: Setup Pages
+      - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
 
