@@ -28,7 +28,7 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
 
     env:
-      HUGO_VERSION: 0.166.0
+      HUGO_VERSION: 0.168.0
 
     steps:
       - name: Checkout
